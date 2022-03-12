@@ -1,0 +1,40 @@
+.xyz{
+  margin-top: 22vh;
+  margin-left: 0%;
+  margin-right: 0.5vw;
+  font-size: 2.5vh;
+  font-family: sans-serif;
+}
+h6{
+  color:rgb(155, 150, 150);
+}
+
+input[type=text], input[type=password] {
+  width: 70%;
+  padding: 2vh 2vh;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: xx-large;
+}
+
+button {
+  font-size: 2vh;
+  background-color: #280071;
+  color: white;
+  padding: 1vh 1vh;
+  margin: 0vh;
+  border:solid #280071 ;
+  border-radius: 5%;
+  cursor: pointer;
+  width: 70%;
+}
+button:hover {
+  opacity: 0.8;
+}
+
+
+body{
+  background-color:#EBEBEE;
+}
